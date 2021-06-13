@@ -19,4 +19,4 @@ The dataset for the models is MNIST dataset which is a huge dataset containing a
 A report is also attached in which a detailed analysis of the models is provided alongwith the accuracies of each model and their configurations.
 
 # How to Run ?
-Download the MNIST Handwriting Recognition dataset. It's easily available on Kaggle. Donwload the train.py files for each model and change the dataset paths respectively. Run the model and it will provide you with training and test accuracies.
+Download the MNIST Handwriting Recognition dataset. It's easily available on Kaggle. Donwload the train.py files for each model and change the dataset paths respectively. Run the model and it will provide you with training and test the accuracies.
